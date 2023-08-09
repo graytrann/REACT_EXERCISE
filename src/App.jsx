@@ -1,11 +1,9 @@
-import BaiTapThucHanhLayout from "./components/BaiTapThucHanhLayout";
-import logo from "./logo.svg";
+import Glasses from "./GlassesChange/Glasses";
 
 function App() {
   return (
     <div>
-      <BaiTapThucHanhLayout />
-      
+      <Glasses />
     </div>
   );
 }
