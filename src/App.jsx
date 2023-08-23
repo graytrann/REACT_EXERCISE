@@ -1,12 +1,8 @@
+import ShoeShop from "./components/ShoeShop";
 import logo from "./logo.svg";
-import "./App.css";
 
 function App() {
-  return (
-    <div>
-      <p>Hello Everyone, these are my exercise of React</p>
-    </div>
-  );
+  return <ShoeShop />;
 }
 
 export default App;
