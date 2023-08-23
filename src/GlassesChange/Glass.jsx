@@ -9,8 +9,7 @@ export default function Glass({ onChangeGlass }) {
         className={styles.glasses_element}
         onClick={() => onChangeGlass(glass.name)}
       >
-        <img src={glass.url}></img>
-        
+        <img src={glass.displayUrl}></img>
       </div>
     );
   });

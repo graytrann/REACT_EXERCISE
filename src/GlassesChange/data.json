@@ -4,6 +4,7 @@
     "price": 30,
     "name": "GUCCI G8850U",
     "url": "./img/v1.png",
+    "displayUrl": "./img/g1.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -11,6 +12,7 @@
     "price": 50,
     "name": "GUCCI G8759H",
     "url": "./img/v2.png",
+    "displayUrl": "./img/g2.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -18,6 +20,7 @@
     "price": 30,
     "name": "DIOR D6700HQ",
     "url": "./img/v3.png",
+    "displayUrl": "./img/g3.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -25,6 +28,7 @@
     "price": 70,
     "name": "DIOR D6005U",
     "url": "./img/v4.png",
+    "displayUrl": "./img/g4.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -32,6 +36,7 @@
     "price": 40,
     "name": "PRADA P8750",
     "url": "./img/v5.png",
+    "displayUrl": "./img/g5.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -39,6 +44,7 @@
     "price": 60,
     "name": "PRADA P9700",
     "url": "./img/v6.png",
+    "displayUrl": "./img/g6.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -46,6 +52,7 @@
     "price": 80,
     "name": "FENDI F8750",
     "url": "./img/v7.png",
+    "displayUrl": "./img/g7.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -53,6 +60,7 @@
     "price": 100,
     "name": "FENDI F8500",
     "url": "./img/v8.png",
+    "displayUrl": "./img/g8.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   },
   {
@@ -60,6 +68,7 @@
     "price": 60,
     "name": "FENDI F4300",
     "url": "./img/v9.png",
+    "displayUrl": "./img/g9.jpg",
     "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
   }
 ]
