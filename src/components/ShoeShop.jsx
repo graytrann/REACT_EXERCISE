@@ -86,7 +86,7 @@ export default function ShoeShop() {
     setselectedProduct(product);
   };
   return (
-    <div className="container">
+    <div className="container ">
       <h1 className="text-center text-primary">Shoe Shop</h1>
       <div className="d-flex justify-content-end">
         <button className="btn btn-danger" onClick={() => setIsOpen(true)}>
