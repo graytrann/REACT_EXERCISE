@@ -1,12 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
+import MovieTicket from "./Movie/MovieTicket";
 
 function App() {
-  return (
-    <div>
-      <p>Hello Everyone, these are my exercise of React</p>
-    </div>
-  );
+  return <MovieTicket />;
 }
 
 export default App;
